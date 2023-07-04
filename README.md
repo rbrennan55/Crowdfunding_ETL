@@ -21,7 +21,7 @@ The instructions for this mini project are divided into the following subsection
     - A "category" column that contains only the category titles
     - The following image shows this category DataFrame:
 
-![alt text](Resources/images/Table1.PNG)
+![alt text](Resources/images/Table.PNG)
 
 2. Export the category DataFrame as category.csv and save it to your GitHub repository.
 
