@@ -97,7 +97,7 @@ The instructions for this mini project are divided into the following subsection
 7. Import each CSV file into its corresponding SQL table.
 8. Verify that each table has the correct data by running a SELECT statement for each.
 
-HINT
+*HINT*
     - To split each "category & sub-category" column value into "category" and "subcategory" column values, use `df[["new_column1","new_column2"]] = df["column"].str.split()`. Make sure to pass the correct parameters to the `split()` function.
 
     - To get the unique category and subcategory values from the "category" and "subcategory" columns, create a NumPy array where the array length equals the number of unique categories and unique subcategories from each column. For information about how to do so, see numpy.arangeLinks to an external site. in the NumPy documentation.
