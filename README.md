@@ -1,7 +1,8 @@
 ### Crowdfunding_ETL
 
 ### Solution Files Submitted
-
+- /NoSQL_setup_starter.ipynb
+- /Resources/images/XXXXX.PNG
 ### Instructions
 The instructions for this mini project are divided into the following subsections:
 
