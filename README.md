@@ -10,30 +10,28 @@
 ### Instructions
 The instructions for this mini project are divided into the following subsections:
 
-Create the Category and Subcategory DataFrames
-Create the Campaign DataFrame
-Create the Contacts DataFrame
-Create the Crowdfunding Database
-Create the Category and Subcategory DataFrames
-Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
+- Create the Category and Subcategory DataFrames
+- Create the Campaign DataFrame
+- Create the Contacts DataFrame
+- Create the Crowdfunding Database
 
-A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
+### Create the Category and Subcategory DataFrames
+1. Extract and transform the `crowdfunding.xlsx` Excel data to create a category DataFrame that has the following columns:
+    - A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
+    - A "category" column that contains only the category titles
+    - The following image shows this category DataFrame:
 
-A "category" column that contains only the category titles
+![alt text](Resources/images/Table1.PNG)
 
-The following image shows this category DataFrame:
+2. Export the category DataFrame as category.csv and save it to your GitHub repository.
 
-category DataFrame
+3. Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
 
-Export the category DataFrame as category.csv and save it to your GitHub repository.
+- A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
 
-Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
+- A "subcategory" column that contains only the subcategory titles
 
-A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
-
-A "subcategory" column that contains only the subcategory titles
-
-The following image shows this subcategory DataFrame:
+- The following image shows this subcategory DataFrame:
 
 subcategory DataFrame
 
