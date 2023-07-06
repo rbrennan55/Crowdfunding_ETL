@@ -2,6 +2,11 @@
 
 ### Solution Files Submitted
 - /ETL_Mini_Project_Starter_Code.ipynb
+- /ETL_Mini_Project_Starter_Code.cvs
+- /ETL_Mini_Project_Starter_Code.cvs
+- /ETL_Mini_Project_Starter_Code.cvs
+- /ETL_Mini_Project_Starter_Code.cvs
+- /<schema>.sql
 - /Resources/images/Table1.PNG
 - /Resources/images/Table2.PNG
 - /Resources/images/Table3.PNG
