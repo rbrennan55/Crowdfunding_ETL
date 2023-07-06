@@ -2,6 +2,11 @@
 
 ### Solution Files Submitted
 - /ETL_Mini_Project_Starter_Code.ipynb
+- /ETL_Mini_Project_Starter_Code.cvs
+- /ETL_Mini_Project_Starter_Code.cvs
+- /ETL_Mini_Project_Starter_Code.cvs
+- /ETL_Mini_Project_Starter_Code.cvs
+- /schema.sql
 - /Resources/images/Table1.PNG
 - /Resources/images/Table2.PNG
 - /Resources/images/Table3.PNG
@@ -23,9 +28,9 @@ The instructions for this mini project are divided into the following subsection
 
     ![alt text](Resources/images/Table1.PNG)
 
-2. Export the category DataFrame as category.csv and save it to your GitHub repository.
+2. Export the category DataFrame as `category.csv` and save it to your GitHub repository.
 
-3. Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
+3. Extract and transform the `crowdfunding.xlsx` Excel data to create a subcategory DataFrame that has the following columns:
 
     - A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
     - A "subcategory" column that contains only the subcategory titles
@@ -33,10 +38,10 @@ The instructions for this mini project are divided into the following subsection
 
      ![alt text](Resources/images/Table2.PNG)
 
-4. Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
+4. Export the subcategory DataFrame as `subcategory.csv` and save it to your GitHub repository.
 
 ### Create the Campaign DataFrame
-1. Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
+1. Extract and transform the `crowdfunding.xlsx` Excel data to create a campaign DataFrame has the following columns:
 
     - The "cf_id" column
     - The "contact_id" column
@@ -56,7 +61,7 @@ The instructions for this mini project are divided into the following subsection
 
      ![alt text](Resources/images/Table3.PNG)
 
-2. Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
+2. Export the campaign DataFrame as `campaign.csv` and save it to your GitHub repository.
 
 ### Create the Contacts DataFrame
 1. Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
@@ -74,14 +79,16 @@ The instructions for this mini project are divided into the following subsection
     - Create a new DataFrame that contains the extracted data.
     - Split each "name" column value into a first and last name, and place each in a new column.
     - Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
+
 3. If you chose Option 2, complete the following steps:
 
-    - Import the contacts.xlsx file into a DataFrame.
+    - Import the `contacts.xlsx` file into a DataFrame.
     - Extract the "contact_id", "name", and "email" columns by using regular expressions.
     - Create a new DataFrame with the extracted data.
     - Convert the "contact_id" column to the integer type.
     - Split each "name" column value into a first and a last name, and place each in a new column.
     - Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
+
 4. Check that your final DataFrame resembles the one in the following image:
 
      ![alt text](Resources/images/Table4.PNG)
