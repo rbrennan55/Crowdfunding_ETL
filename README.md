@@ -4,6 +4,8 @@
 - /ETL_Mini_Project_Starter_Code.ipynb
 - /Resources/category.cvs
 - /Resources/subcategory.cvs
+- /Resources/campaign.cvs
+- /Resources/contacts.cvs
 - /Resources/crowdfunding.xlsx
 - /Resources/contacts.xlsx
 - /schema.sql
