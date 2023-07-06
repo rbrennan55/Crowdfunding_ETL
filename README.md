@@ -2,10 +2,10 @@
 
 ### Solution Files Submitted
 - /ETL_Mini_Project_Starter_Code.ipynb
-- /ETL_Mini_Project_Starter_Code.cvs
-- /ETL_Mini_Project_Starter_Code.cvs
-- /ETL_Mini_Project_Starter_Code.cvs
-- /ETL_Mini_Project_Starter_Code.cvs
+- /Resources/category.cvs
+- /Resources/subcategory.cvs
+- /Resources/crowdfunding.xlsx
+- /Resources/contacts.xlsx
 - /schema.sql
 - /Resources/images/Table1.PNG
 - /Resources/images/Table2.PNG
