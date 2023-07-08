@@ -8,7 +8,8 @@
 - /Resources/contacts.cvs
 - /Resources/crowdfunding.xlsx
 - /Resources/contacts.xlsx
-- /schema.sql
+- /Crowdfuning Schema.sql
+- /ERD Diagram.png
 - /Resources/images/Table1.PNG
 - /Resources/images/Table2.PNG
 - /Resources/images/Table3.PNG
