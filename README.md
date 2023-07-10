@@ -1,4 +1,5 @@
 ### Crowdfunding_ETL
+This project (Project #2) was completed and submitted by Gosaye White and Ron Brennan
 
 ### Solution Files Submitted
 - /ETL_Mini_Project_Starter_Code.ipynb
